@@ -1,1 +1,1 @@
-# Home_Sales
+Module 22 Home_Sales challenge Challenge. In this repositry I have uploaded a file called home_sales_collag which contains the code required to anlayse the home_sales data using SparkSQL.The google collab code is annotated for ease of reading and understanding. To create the code I adapted code from class activities and lectures
